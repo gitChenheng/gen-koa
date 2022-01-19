@@ -1,0 +1,22 @@
+{
+  "name": "gen-koa",
+  "version": "1.2.1",
+  "main": "bin/index.js",
+  "license": "MIT",
+  "bin": {
+    "gen-koa-cli": "bin/index.js"
+  },
+  "dependencies": {
+    "cfonts": "^2.10.0",
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "glob": "^7.2.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.0",
+    "log-symbols": "^5.1.0",
+    "metalsmith": "^2.3.0",
+    "ora": "^6.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
